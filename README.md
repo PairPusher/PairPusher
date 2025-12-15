@@ -2,7 +2,7 @@
 
 ### 🚀 Featured Project
 
-**[PairPusher-Lite](https://github.com/yourusername/PairPusher-Lite)**
+**[PairPusher-Lite](https://github.com/PairPusher/PairPusher-Lite)**
 
 ---
 
