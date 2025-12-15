@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!
 
 ### 🚀 Featured Project
 
@@ -7,5 +7,3 @@
 ---
 
 - 🌱 Coming Soon: PairPusher Flow & Pro
-
-- 
