@@ -1,9 +1,10 @@
 ## Hi!
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 **[PairPusher-Lite](https://github.com/PairPusher/PairPusher-Lite)**
+**[PairPusher-Flow](https://github.com/PairPusher/PairPusher-Flow)**
 
 ---
 
-- 🌱 Coming Soon: PairPusher Flow & Pro
+- 🌱 Coming Soon: PairPusher Pro
