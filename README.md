@@ -6,4 +6,4 @@
 
 **[PairPusher-Flow](https://github.com/PairPusher/PairPusher-Flow)**
 
-**[PairPusher-Flow](https://github.com/PairPusher/PairPusher-Pro)**
+**[PairPusher-Pro](https://github.com/PairPusher/PairPusher-Pro)**
