@@ -6,6 +6,4 @@
 
 **[PairPusher-Flow](https://github.com/PairPusher/PairPusher-Flow)**
 
----
-
-- 🌱 Coming Soon: PairPusher Pro
+**[PairPusher-Flow](https://github.com/PairPusher/PairPusher-Pro)**
