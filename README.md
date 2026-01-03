@@ -10,3 +10,6 @@ It is too frustrating, and so I am shelving the project on MP, and here on Githu
 
 The LICENSE and Trademarks still apply, by the way :)
 
+At least I learned a lot about doing a large, non-trivial project, end to end, as a collab with AI.
+
+-- Val
